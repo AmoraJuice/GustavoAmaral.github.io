@@ -43,8 +43,8 @@
 
 .name {
     color: #000000;
-    font-size: 30px;
-    letter-spacing: 2px;
+    font-size: 30 px;
+    letter-spacing: 2 px;
     text-transform: uppercase;
 }
 
@@ -81,6 +81,7 @@
 .skills ul {
     padding-top: 1.5rem;
 }
+
 .skills ul li p {
     padding: .4rem 0;
     color: #000000;
@@ -97,6 +98,7 @@
 .gap {
     padding-bottom: 2rem;
 }
+
 .about-me-contents {
     font-size: 18px;
     color: #ffffff;
@@ -109,7 +111,6 @@
     grid-template-columns: repeat (2, 1fr);
     padding-bottom: 2rem;
     color: #F1F8FD;
-
 }
 
 .experience-contents,
