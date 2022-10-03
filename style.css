@@ -42,14 +42,8 @@ body {
 
 .profile .profile-image {
     width: 100%;
-<<<<<<< HEAD
     border-radius: 50%;
     border: 8px solid #1B2631;
-=======
-    border-radius: 100%;
-    border-radius: 50%;
-    border: 8px solid #1B2631
->>>>>>> 381a235bb2880912487bcdb4ffd1cb0e779ad598
 }
 
 .name {
